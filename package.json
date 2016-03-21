@@ -1,6 +1,6 @@
 {
   "name": "es6-exercise",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Exersise on ES6 features",
   "main": "src/index.js",
   "scripts": {
