@@ -1,0 +1,26 @@
+{
+  "name": "es6-exercise",
+  "version": "1.0.0",
+  "description": "Exersise on ES6 features",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vijithaepa/ES6-exercise.git"
+  },
+  "keywords": [
+    "es6",
+    "exercise"
+  ],
+  "author": "'vijitha <'vijithaepa@yahoo.com'>",
+  "license": "(MIT)",
+  "bugs": {
+    "url": "https://github.com/vijithaepa/ES6-exercise/issues"
+  },
+  "homepage": "https://github.com/vijithaepa/ES6-exercise#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
