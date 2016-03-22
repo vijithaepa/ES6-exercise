@@ -1,38 +1,42 @@
-[{
-	"name": "Ranajan",
-	"age": 43,
-	"company": "Dialog"
-},
-{
-	"name": "Lusanth",
-	"age": 71,
-	"company": "Dialog"
-},
-{
-	"name": "Madhawa",
-	"age": 87,
-	"company": "Dialog"
-},
-{
-	"name": "Dilusha",
-	"age": 32,
-	"company": "Object"
-},
-{
-	"name": "Yashodha",
-	"age": 29,
-	"company": "SMS"
-},
-{
-	"name": "Chandima",
-	"age": 28,
-	"company": "Object"
-},{
-	"name": "Chaminda",
-	"age": 48,
-	"company": "Worksafe"
-},{
-	"name": "Vijitha",
-	"age": 45,
-	"company": "Dialog"
-}]
+{"employees":[
+  {
+    "name": "Ranajan",
+    "age": 43,
+    "company": "Dialog"
+  },
+  {
+    "name": "Lusanth",
+    "age": 71,
+    "company": "Dialog"
+  },
+  {
+    "name": "Madhawa",
+    "age": 87,
+    "company": "Dialog"
+  },
+  {
+    "name": "Dilusha",
+    "age": 32,
+    "company": "Object"
+  },
+  {
+    "name": "Yashodha",
+    "age": 29,
+    "company": "SMS"
+  },
+  {
+    "name": "Chandima",
+    "age": 28,
+    "company": "Object"
+  },
+  {
+    "name": "Chaminda",
+    "age": 48,
+    "company": "Worksafe"
+  },
+  {
+    "name": "Vijitha",
+    "age": 45,
+    "company": "Dialog"
+  }
+]}
