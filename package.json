@@ -1,6 +1,6 @@
 {
-  "name": "search-emplyee",
-  "version": "1.2.1-beta.0",
+  "name": "search-employee",
+  "version": "1.2.2",
   "description": "Exersise on ES6 features",
   "main": "src/index.js",
   "scripts": {
