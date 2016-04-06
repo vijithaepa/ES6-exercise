@@ -24,9 +24,17 @@ describe('Employees', function () {
     });
 
     describe("test-Random", function () {
-        it('should random employee from employees', function () {
+        it('should return random employee from employees', function () {
             var random = employees.random();
             expect(employees.all).to.include(random);
+        });
+
+        it('should return random number of employees when passing a number', function(){
+            var random = employees.random(2);
+            expect(random).to.have.length(2);
+            random.forEach(function(item){
+                expect(employees.all).to.include(item);
+            });
         });
     });
 

@@ -1,5 +1,4 @@
-{"employees":[
-  {
+[{
     "name": "Ranajan",
     "age": 43,
     "company": "Dialog"
@@ -38,5 +37,4 @@
     "name": "Vijitha",
     "age": 45,
     "company": "Dialog"
-  }
-]}
+  }]

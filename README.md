@@ -7,6 +7,8 @@ Dependency libraries (npm i -s / npm install --save)
     mocha chai
     unique-random-array
     semantic-release-cli
+    commitizen
+    cz-conventional-changelog
 
 To use this library :
 npm install search-emplyee
