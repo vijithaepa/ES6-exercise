@@ -22,6 +22,12 @@ npm publish             - to npm repo
 npm publish --tag beta  - for beta versions
 npm infor search-employee   - Detailed information about the library
 
+Release management with Travis
+travis-ci.org
+
+published to npm
+www.npmjs.com
+
 Issue resolution for semantic-release-cli
 https://github.com/nodejs/node-gyp#installation
 
