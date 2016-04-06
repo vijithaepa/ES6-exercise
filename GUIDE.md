@@ -17,11 +17,14 @@ NPM Configurations : (https://docs.npmjs.com/misc/config)
 
     npm init - will create package JSON.
 
-git push - to gihub
-npm publish - to npm repo
-npm publish --tag beta - for beta versions
+git push                - to gihub
+npm publish             - to npm repo
+npm publish --tag beta  - for beta versions
+npm infor search-employee   - Detailed information about the library
 
-npm infor search-emplyee
+Issue resolution for semantic-release-cli
+https://github.com/nodejs/node-gyp#installation
+
 dependancy libraries (npm i -s / npm install --save)
     unique-random-array
 

@@ -1,14 +1,16 @@
 {
   "name": "search-employee",
-  "version": "1.2.2",
+  "version": "1.2.2-semantically-released",
   "description": "Exersise on ES6 features",
   "main": "src/index.js",
   "scripts": {
-    "test": "mocha src/index.test.js -w"
+    "commit": "git-cz",
+    "test": "mocha src/index.test.js -w",
+    "semantic-release": "semantic-release pre && npm publish && semantic-release post"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vijithaepa/ES6-exercise.git"
+    "url": "https://github.com/vijithaepa/ES6-exercise.git"
   },
   "keywords": [
     "es6",
@@ -25,7 +27,13 @@
   },
   "devDependencies": {
     "chai": "3.5.0",
+    "commitizen": "2.7.6",
+    "cz-conventional-changelog": "1.1.5",
     "mocha": "2.4.5",
+    "semantic-release": "^4.3.5",
     "unique-random-array": "1.0.0"
+  },
+  "czConfig":{
+    "path": "node_modules/cz-conventional-changelog"
   }
 }
