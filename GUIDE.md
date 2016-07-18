@@ -24,11 +24,9 @@
  * npm info -- Gives a detailed information about he library
 
 
-Release management with [Travis](travis-ci.org)
-
-Published to [npm](www.npmjs.com)
-
-If you find issues running Sementic-release installation, refer [Issue resolution] (https://github.com/nodejs/node-gyp#installation) for semantic-release-cli
+> Release management has implemented with [Travis](travis-ci.org)
+> Published to [npm](www.npmjs.com)
+> If you find issues running Sementic-release installation, refer [Issue resolution] (https://github.com/nodejs/node-gyp#installation) for semantic-release-cli
 
 
 
