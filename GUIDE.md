@@ -15,7 +15,6 @@
  * npm set save-exact
 
  * npm adduser -- will add authorised [npm user](https://www.npmjs.com) to the project
-
  * npm init -- will create package JSON
 
 ## Release steps
